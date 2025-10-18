@@ -10,6 +10,7 @@ A student passionate to learn programming🗿. Currently learning **C++**, **OOP
 
 ## 💻 Project
 **•** [Project 1 (Rock-Paper-Scissors)](https://github.com/Damoni1337/Rock-Paper-Scissors)
+
 **•** [Project 2 (Math-Game)](https://github.com/Damoni1337/Math-Game)
 
 # ⚙ Tools:
